@@ -1,0 +1,1 @@
+# simpl_-program_for_a_grocery_shop_to_manage_its_inventory-Python
